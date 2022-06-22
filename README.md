@@ -1,7 +1,7 @@
 ### Hi I'm João Carlos 👋
 
-- 🔭 I'm currently working as a DevOps and C# developer
-- 🌱 I'm currently learning Docker, Kubernetes, Node.js, React and .Net
+- 🔭 I'm currently working as a DevOps, C# and Java developer
+- 🌱 I'm currently learning Docker, Kubernetes, Node.js, Angular, React, .Net and Java
 - 💬 Ask me about UFT
 - 📫 How to reach me: suporte_carlos@live.com 
 
